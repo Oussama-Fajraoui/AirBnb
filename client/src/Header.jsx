@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Header = () => {
   return (
     <div>
-            <header className='p-4 flex justify-between '>
+            <header className='flex justify-between '>
       {/* LOGO */}
       <a href="" className='flex items-center gap-1 '>
       <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-10 h-10 -rotate-90" >
